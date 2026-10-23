@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#07100d"/>
+<rect x="24" y="24" width="464" height="464" rx="94" fill="#0c1512" stroke="#146444" stroke-width="12"/>
+<path d="M112 205h62v102h-62zM338 205h62v102h-62zM82 225h30v62H82zM400 225h30v62h-30zM174 235h164v42H174z" fill="#00f5a0"/>
+<path d="M256 96l-72 118h49l-26 106 117-148h-57l29-76z" fill="#f1fff8"/>
+<text x="256" y="402" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="800" text-anchor="middle" fill="#00f5a0">PRIME</text>
+<text x="256" y="447" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" letter-spacing="5" text-anchor="middle" fill="#f1fff8">FITNESS</text>
+</svg>

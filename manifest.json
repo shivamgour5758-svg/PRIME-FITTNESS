@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Prime Fitness - Home Workout",
+  "short_name": "Prime Fitness",
+  "description": "Home workout, fitness and nutrition companion. No equipment needed.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050a09",
+  "theme_color": "#07100d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
